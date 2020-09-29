@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type='text/css' href='style.css'?>
+<document>
+   <!-- We can put commment with "Space and /" -->
+    <module>Interactive Web Applications&#33;</module>
+<lecturer id ="2018315"/>
+<br></br>
+    <ca>1</ca>
+    <text>My first app</text>
+</document>
